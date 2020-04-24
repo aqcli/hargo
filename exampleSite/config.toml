@@ -59,19 +59,19 @@ mobile = "0124857985320"
 [params.contact]
 formAction = "#"
 [[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
+link = "static/plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
-link = "plugins/slick/slick.css"
+link = "static/plugins/slick/slick.css"
 [[params.plugins.css]]
-link = "plugins/themify-icons/themify-icons.css"
+link = "static/plugins/themify-icons/themify-icons.css"
 [[params.plugins.js]]
-link = "plugins/jQuery/jquery.min.js"
+link = "static/plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
+link = "static/plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
-link = "plugins/slick/slick.min.js"
+link = "static/plugins/slick/slick.min.js"
 [[params.plugins.js]]
-link = "plugins/google-map/gmap.js"
+link = "static/plugins/google-map/gmap.js"
 [params.preloader]
 enable = true
 preloader = ""
