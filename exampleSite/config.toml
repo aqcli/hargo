@@ -4,7 +4,7 @@ languageCode = "en-us"
 paginate = 10
 summaryLength = "20"
 
-theme = layouts
+theme = "layouts"
 title = "AQCLI the integrated waterquality, airquality and climate change sensor"
 [[menu.footer]]
 URL = "contact"
