@@ -1,4 +1,4 @@
-baseURL = "https://aqcli.com"
+baseURL = "https://aqcli.netlify.app"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = 10
